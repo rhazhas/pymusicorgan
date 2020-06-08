@@ -1,2 +1,2 @@
 # pymusicorgan
-a mini organ program that make music
+A mini organ program that make music
